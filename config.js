@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    titleWeb: "ducthuan8-3",
+    introTitle: 'HELLO THU HOÀI',
+    introDesc: `Có một lời yêu thương gửi tới bạn 💌`,
+    btnIntro: '^^HIHIII^^',
+    title: ' Chúc bạn nhận đư­ợc nhiều quà, nhiều hoa, nhiều lời khen, lời chúc của phái nam trong ngày hôm nay 🥰',
+    desc: 'Chúc bạn gặp nhiều may mắn hơn, hạnh phúc hơn nhiều niềm vui, nhiều điều tuyệt diệu hơn trong cuộc sống. ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Cái gì đàn ông có mà phụ nữ không có <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Đáp án: Vợ<333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Happy Womens Day!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/DUCTHUAN55/tanghoai8-3/edit/main/config.js' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
